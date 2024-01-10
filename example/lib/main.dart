@@ -10,46 +10,31 @@ import 'package:flutter/material.dart';
 import 'package:location/location.dart';
 import 'package:mapbox_gl/mapbox_gl.dart';
 
-import 'animate_camera.dart';
-import 'annotation_order_maps.dart';
-import 'click_annotations.dart';
-import 'custom_marker.dart';
-import 'full_map.dart';
-import 'layer.dart';
-import 'line.dart';
-import 'local_style.dart';
+
+
+
+
 import 'map_ui.dart';
-import 'move_camera.dart';
-import 'offline_regions.dart';
+
+
 import 'page.dart';
-import 'place_batch.dart';
-import 'place_circle.dart';
-import 'place_fill.dart';
-import 'place_source.dart';
-import 'place_symbol.dart';
-import 'scrolling_map.dart';
+
+
+
+
+
+
 import 'sources.dart';
-import 'take_snapshot.dart';
+
 
 final List<ExamplePage> _allPages = <ExamplePage>[
   MapUiPage(),
-  FullMapPage(),
-  AnimateCameraPage(),
-  MoveCameraPage(),
-  PlaceSymbolPage(),
-  PlaceSourcePage(),
-  LinePage(),
-  LocalStylePage(),
-  LayerPage(),
-  PlaceCirclePage(),
-  PlaceFillPage(),
-  ScrollingMapPage(),
-  OfflineRegionsPage(),
-  AnnotationOrderPage(),
-  CustomMarkerPage(),
-  BatchAddPage(),
-  TakeSnapPage(),
-  ClickAnnotationPage(),
+
+  
+  
+  
+
+  
   Sources()
 ];
 
@@ -61,7 +46,7 @@ class MapsDemo extends StatefulWidget {
   //
   // Alternatively you can replace `String.fromEnvironment("ACCESS_TOKEN")`
   // in the following line with your access token directly.
-  static const String ACCESS_TOKEN = String.fromEnvironment("ACCESS_TOKEN");
+  static const String ACCESS_TOKEN = 'pk.eyJ1IjoibWlrZW9sc2VuIiwiYSI6ImNsanllbjVybTAzYTczbHFnNGdxc2hoY2kifQ.w1MWWZd8X2Ofk1uKWFqhJA';
 
   @override
   State<MapsDemo> createState() => _MapsDemoState();
@@ -126,7 +111,7 @@ class _MapsDemoState extends State<MapsDemo> {
 
   Widget buildAccessTokenWarning() {
     return Container(
-      color: Colors.red[900],
+      color: Color.fromARGB(127, 183, 28, 28),
       child: SizedBox.expand(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,

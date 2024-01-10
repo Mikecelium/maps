@@ -1,0 +1,1271 @@
+{
+    "type": "FeatureCollection",
+    "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+    "features": [
+    
+    
+    {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Musical Instruments",
+                    "Description": "Acoustic Guitar",
+                    "Rental 1-3 Day": 28,
+                    "Rental 3 Day - 1 Week": 19,
+                    "Rental 1 Week Onwards": 28
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.0948225079263,
+                        -26.774330832094662,
+                        0.013322972174155612
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Musical Instruments",
+                    "Description": "Electric Guitar",
+                    "Rental 1-3 Day": 21,
+                    "Rental 3 Day - 1 Week": 32,
+                    "Rental 1 Week Onwards": 9
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.97394006769517,
+                        -26.65902665324738,
+                        0.07368181631841388
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Musical Instruments",
+                    "Description": "Drum Set",
+                    "Rental 1-3 Day": 12,
+                    "Rental 3 Day - 1 Week": 35,
+                    "Rental 1 Week Onwards": 10
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.92640779376325,
+                        -26.601293640936994,
+                        0.09565388760435484
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Musical Instruments",
+                    "Description": "Violin",
+                    "Rental 1-3 Day": 39,
+                    "Rental 3 Day - 1 Week": 28,
+                    "Rental 1 Week Onwards": 11
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.1361315100925,
+                        -26.734412923399297,
+                        0.052836962421490656
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Musical Instruments",
+                    "Description": "Piano",
+                    "Rental 1-3 Day": 40,
+                    "Rental 3 Day - 1 Week": 22,
+                    "Rental 1 Week Onwards": 21
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.99754698529176,
+                        -26.68192797068256,
+                        0.0797236007716053
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Musical Instruments",
+                    "Description": "Saxophone",
+                    "Rental 1-3 Day": 23,
+                    "Rental 3 Day - 1 Week": 18,
+                    "Rental 1 Week Onwards": 22
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.9169600444939,
+                        -26.78390965721036,
+                        0.00022844169644264944
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Musical Instruments",
+                    "Description": "Flute",
+                    "Rental 1-3 Day": 10,
+                    "Rental 3 Day - 1 Week": 21,
+                    "Rental 1 Week Onwards": 7
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.93236268337188,
+                        -26.554354681314003,
+                        0.08134743184199035
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Musical Instruments",
+                    "Description": "Trumpet",
+                    "Rental 1-3 Day": 29,
+                    "Rental 3 Day - 1 Week": 10,
+                    "Rental 1 Week Onwards": 7
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.06653365083596,
+                        -26.77110377428434,
+                        0.00620585101055724
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Musical Instruments",
+                    "Description": "Harmonica",
+                    "Rental 1-3 Day": 49,
+                    "Rental 3 Day - 1 Week": 34,
+                    "Rental 1 Week Onwards": 7
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.9978694882729,
+                        -26.73366726754816,
+                        0.0680352457148268
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Musical Instruments",
+                    "Description": "Synthesizer",
+                    "Rental 1-3 Day": 18,
+                    "Rental 3 Day - 1 Week": 38,
+                    "Rental 1 Week Onwards": 22
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.13543405726242,
+                        -26.74633595719878,
+                        0.030343153775153932
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Books",
+                    "Description": "Adventure Novel",
+                    "Rental 1-3 Day": 25,
+                    "Rental 3 Day - 1 Week": 40,
+                    "Rental 1 Week Onwards": 5
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.99132550410562,
+                        -26.56089342632435,
+                        0.00043315966615300463
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Books",
+                    "Description": "Science Fiction",
+                    "Rental 1-3 Day": 13,
+                    "Rental 3 Day - 1 Week": 36,
+                    "Rental 1 Week Onwards": 3
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.9595367591253,
+                        -26.79429016094718,
+                        0.051700526074667436
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Books",
+                    "Description": "Mystery Thriller",
+                    "Rental 1-3 Day": 42,
+                    "Rental 3 Day - 1 Week": 30,
+                    "Rental 1 Week Onwards": 5
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.9902571520362,
+                        -26.502136707489264,
+                        0.00256941079488221
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Books",
+                    "Description": "Biography",
+                    "Rental 1-3 Day": 47,
+                    "Rental 3 Day - 1 Week": 8,
+                    "Rental 1 Week Onwards": 29
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.03596647985657,
+                        -26.541659759440225,
+                        0.06314165180015029
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Books",
+                    "Description": "Fantasy",
+                    "Rental 1-3 Day": 44,
+                    "Rental 3 Day - 1 Week": 14,
+                    "Rental 1 Week Onwards": 14
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.91623352254453,
+                        -26.609963639892875,
+                        0.027936179095184047
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Books",
+                    "Description": "Historical",
+                    "Rental 1-3 Day": 44,
+                    "Rental 3 Day - 1 Week": 32,
+                    "Rental 1 Week Onwards": 10
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.11036313869698,
+                        -26.765610509569807,
+                        0.03961952365075369
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Books",
+                    "Description": "Romance",
+                    "Rental 1-3 Day": 45,
+                    "Rental 3 Day - 1 Week": 13,
+                    "Rental 1 Week Onwards": 13
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.0788027535304,
+                        -26.775758770435772,
+                        0.012236586133306094
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Books",
+                    "Description": "Self-help",
+                    "Rental 1-3 Day": 28,
+                    "Rental 3 Day - 1 Week": 5,
+                    "Rental 1 Week Onwards": 2
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.11357584627962,
+                        -26.622003902755388,
+                        0.07372884799439279
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Books",
+                    "Description": "Cookbook",
+                    "Rental 1-3 Day": 50,
+                    "Rental 3 Day - 1 Week": 26,
+                    "Rental 1 Week Onwards": 5
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.12817230352172,
+                        -26.752508306720305,
+                        0.047609165990580675
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Books",
+                    "Description": "Travel Guide",
+                    "Rental 1-3 Day": 35,
+                    "Rental 3 Day - 1 Week": 3,
+                    "Rental 1 Week Onwards": 29
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.03654511511593,
+                        -26.647426065294578,
+                        0.09210499879567402
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Toys",
+                    "Description": "Lego",
+                    "Rental 1-3 Day": 25,
+                    "Rental 3 Day - 1 Week": 11,
+                    "Rental 1 Week Onwards": 22
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.07437454577064,
+                        -26.59564565272804,
+                        0.08027111189420133
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Toys",
+                    "Description": "Action Figure",
+                    "Rental 1-3 Day": 23,
+                    "Rental 3 Day - 1 Week": 21,
+                    "Rental 1 Week Onwards": 4
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.9158725868243,
+                        -26.52943886079332,
+                        0.09172778105796141
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Toys",
+                    "Description": "Board Game",
+                    "Rental 1-3 Day": 40,
+                    "Rental 3 Day - 1 Week": 24,
+                    "Rental 1 Week Onwards": 11
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.12768667161598,
+                        -26.633287471273746,
+                        0.04839763038707742
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Toys",
+                    "Description": "Puzzle",
+                    "Rental 1-3 Day": 43,
+                    "Rental 3 Day - 1 Week": 14,
+                    "Rental 1 Week Onwards": 22
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.98064730297602,
+                        -26.66560661912382,
+                        0.032038151313932395
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Toys",
+                    "Description": "Doll",
+                    "Rental 1-3 Day": 21,
+                    "Rental 3 Day - 1 Week": 38,
+                    "Rental 1 Week Onwards": 27
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.96326374372111,
+                        -26.62536120672164,
+                        0.0862069460774124
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Toys",
+                    "Description": "Remote Control Car",
+                    "Rental 1-3 Day": 9,
+                    "Rental 3 Day - 1 Week": 20,
+                    "Rental 1 Week Onwards": 3
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.91482853050815,
+                        -26.748105912677925,
+                        0.06687848645543897
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Toys",
+                    "Description": "Yo-yo",
+                    "Rental 1-3 Day": 10,
+                    "Rental 3 Day - 1 Week": 24,
+                    "Rental 1 Week Onwards": 11
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.96301768269566,
+                        -26.5980486486973,
+                        0.05938960989139144
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Toys",
+                    "Description": "Bicycle",
+                    "Rental 1-3 Day": 5,
+                    "Rental 3 Day - 1 Week": 30,
+                    "Rental 1 Week Onwards": 5
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.125326370062,
+                        -26.728268095704017,
+                        0.07129746493959736
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Toys",
+                    "Description": "Teddy Bear",
+                    "Rental 1-3 Day": 50,
+                    "Rental 3 Day - 1 Week": 34,
+                    "Rental 1 Week Onwards": 26
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.0327130420333,
+                        -26.79228759900385,
+                        0.06423589948557877
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Toys",
+                    "Description": "Magic Kit",
+                    "Rental 1-3 Day": 35,
+                    "Rental 3 Day - 1 Week": 13,
+                    "Rental 1 Week Onwards": 29
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.9589880499435,
+                        -26.52241078409968,
+                        0.09288385385061178
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Camping",
+                    "Description": "Two-Person Tent",
+                    "Rental 1-3 Day": 49,
+                    "Rental 3 Day - 1 Week": 4,
+                    "Rental 1 Week Onwards": 9
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.1337136752597,
+                        -26.63561000471773,
+                        0.062401970522338805
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Camping",
+                    "Description": "Sleeping Bag",
+                    "Rental 1-3 Day": 16,
+                    "Rental 3 Day - 1 Week": 14,
+                    "Rental 1 Week Onwards": 11
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.9396846770748,
+                        -26.74998242780099,
+                        0.0924743674785353
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Camping",
+                    "Description": "Camping Stove",
+                    "Rental 1-3 Day": 22,
+                    "Rental 3 Day - 1 Week": 12,
+                    "Rental 1 Week Onwards": 20
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.11954791489038,
+                        -26.590415497730714,
+                        0.03662042429800849
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Camping",
+                    "Description": "Backpack",
+                    "Rental 1-3 Day": 19,
+                    "Rental 3 Day - 1 Week": 38,
+                    "Rental 1 Week Onwards": 6
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.97309867346644,
+                        -26.632977903666603,
+                        0.07242892898557576
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Camping",
+                    "Description": "Camping Chair",
+                    "Rental 1-3 Day": 42,
+                    "Rental 3 Day - 1 Week": 5,
+                    "Rental 1 Week Onwards": 13
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.95084127942366,
+                        -26.65833598540935,
+                        0.00565754587034425
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Camping",
+                    "Description": "Lantern",
+                    "Rental 1-3 Day": 5,
+                    "Rental 3 Day - 1 Week": 5,
+                    "Rental 1 Week Onwards": 16
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.07166057350773,
+                        -26.592103793676408,
+                        0.049766515889818674
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Camping",
+                    "Description": "Hiking Boots",
+                    "Rental 1-3 Day": 25,
+                    "Rental 3 Day - 1 Week": 10,
+                    "Rental 1 Week Onwards": 20
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.99825636109756,
+                        -26.74123969569385,
+                        0.04916339597008963
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Camping",
+                    "Description": "First Aid Kit",
+                    "Rental 1-3 Day": 20,
+                    "Rental 3 Day - 1 Week": 29,
+                    "Rental 1 Week Onwards": 13
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.0516423692238,
+                        -26.711634589324426,
+                        0.021934299052407916
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Camping",
+                    "Description": "Binoculars",
+                    "Rental 1-3 Day": 18,
+                    "Rental 3 Day - 1 Week": 15,
+                    "Rental 1 Week Onwards": 22
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.00766970020317,
+                        -26.761085093651186,
+                        0.04140945126938372
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Camping",
+                    "Description": "Portable Grill",
+                    "Rental 1-3 Day": 9,
+                    "Rental 3 Day - 1 Week": 26,
+                    "Rental 1 Week Onwards": 7
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.13842500403246,
+                        -26.712737177510895,
+                        0.018910907948814306
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Cameras",
+                    "Description": "DSLR Camera",
+                    "Rental 1-3 Day": 5,
+                    "Rental 3 Day - 1 Week": 11,
+                    "Rental 1 Week Onwards": 3
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.95907943571223,
+                        -26.544473224997173,
+                        0.08311424849780336
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Cameras",
+                    "Description": "Mirrorless Camera",
+                    "Rental 1-3 Day": 39,
+                    "Rental 3 Day - 1 Week": 20,
+                    "Rental 1 Week Onwards": 22
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.94166889472496,
+                        -26.637768984884257,
+                        0.09526364252142512
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Cameras",
+                    "Description": "Compact Camera",
+                    "Rental 1-3 Day": 17,
+                    "Rental 3 Day - 1 Week": 38,
+                    "Rental 1 Week Onwards": 28
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.0260541692086,
+                        -26.668609914517607,
+                        0.07540062315537108
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Cameras",
+                    "Description": "Action Camera",
+                    "Rental 1-3 Day": 48,
+                    "Rental 3 Day - 1 Week": 11,
+                    "Rental 1 Week Onwards": 11
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.0940991899419,
+                        -26.740397734873916,
+                        0.00928538495847947
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Cameras",
+                    "Description": "Film Camera",
+                    "Rental 1-3 Day": 31,
+                    "Rental 3 Day - 1 Week": 3,
+                    "Rental 1 Week Onwards": 15
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.00276396085158,
+                        -26.797992604324826,
+                        0.0490777109038075
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Cameras",
+                    "Description": "Camcorder",
+                    "Rental 1-3 Day": 35,
+                    "Rental 3 Day - 1 Week": 11,
+                    "Rental 1 Week Onwards": 18
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.04987367167737,
+                        -26.799474883838418,
+                        0.07548078360151027
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Cameras",
+                    "Description": "Camera Lens",
+                    "Rental 1-3 Day": 35,
+                    "Rental 3 Day - 1 Week": 29,
+                    "Rental 1 Week Onwards": 28
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.03673374275922,
+                        -26.636132355201788,
+                        0.015511562003739588
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Cameras",
+                    "Description": "Tripod",
+                    "Rental 1-3 Day": 33,
+                    "Rental 3 Day - 1 Week": 23,
+                    "Rental 1 Week Onwards": 11
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.90581146837695,
+                        -26.570088941236563,
+                        0.08033524199314196
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Cameras",
+                    "Description": "Camera Bag",
+                    "Rental 1-3 Day": 6,
+                    "Rental 3 Day - 1 Week": 24,
+                    "Rental 1 Week Onwards": 6
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.06925272812268,
+                        -26.72423826225621,
+                        0.04096215384099651
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Cameras",
+                    "Description": "Flash",
+                    "Rental 1-3 Day": 42,
+                    "Rental 3 Day - 1 Week": 32,
+                    "Rental 1 Week Onwards": 4
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.92302397004332,
+                        -26.71541860315088,
+                        0.016067051275676005
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Furniture",
+                    "Description": "Office Chair",
+                    "Rental 1-3 Day": 17,
+                    "Rental 3 Day - 1 Week": 15,
+                    "Rental 1 Week Onwards": 21
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.05276920524634,
+                        -26.588444869846754,
+                        0.07404045821254178
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Furniture",
+                    "Description": "Sofa",
+                    "Rental 1-3 Day": 32,
+                    "Rental 3 Day - 1 Week": 38,
+                    "Rental 1 Week Onwards": 11
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.02776163423744,
+                        -26.6769576608317,
+                        0.03283657906048553
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Furniture",
+                    "Description": "Bed",
+                    "Rental 1-3 Day": 46,
+                    "Rental 3 Day - 1 Week": 16,
+                    "Rental 1 Week Onwards": 3
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.93703676937855,
+                        -26.736020677398123,
+                        0.01616169424414471
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Furniture",
+                    "Description": "Dining Table",
+                    "Rental 1-3 Day": 27,
+                    "Rental 3 Day - 1 Week": 15,
+                    "Rental 1 Week Onwards": 28
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.93458032315155,
+                        -26.557023621191217,
+                        0.002991218394229123
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Furniture",
+                    "Description": "Bookshelf",
+                    "Rental 1-3 Day": 5,
+                    "Rental 3 Day - 1 Week": 12,
+                    "Rental 1 Week Onwards": 5
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.93748715376822,
+                        -26.50238958066308,
+                        0.07327433406572424
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Furniture",
+                    "Description": "Wardrobe",
+                    "Rental 1-3 Day": 17,
+                    "Rental 3 Day - 1 Week": 30,
+                    "Rental 1 Week Onwards": 29
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.04103810378484,
+                        -26.66389488555256,
+                        0.0400378121357071
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Furniture",
+                    "Description": "Desk",
+                    "Rental 1-3 Day": 26,
+                    "Rental 3 Day - 1 Week": 39,
+                    "Rental 1 Week Onwards": 7
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.98542784144033,
+                        -26.65076578661844,
+                        0.035797296674563196
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Furniture",
+                    "Description": "Armchair",
+                    "Rental 1-3 Day": 15,
+                    "Rental 3 Day - 1 Week": 38,
+                    "Rental 1 Week Onwards": 23
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.01759215426176,
+                        -26.680140733906562,
+                        0.013620128402753229
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Furniture",
+                    "Description": "Dresser",
+                    "Rental 1-3 Day": 19,
+                    "Rental 3 Day - 1 Week": 26,
+                    "Rental 1 Week Onwards": 30
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.07097438309546,
+                        -26.635211068710866,
+                        0.00949501989971683
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Furniture",
+                    "Description": "Coffee Table",
+                    "Rental 1-3 Day": 41,
+                    "Rental 3 Day - 1 Week": 8,
+                    "Rental 1 Week Onwards": 18
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.10277769182332,
+                        -26.63922909917658,
+                        0.043094097939839586
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Tools",
+                    "Description": "Hammer Drill",
+                    "Rental 1-3 Day": 13,
+                    "Rental 3 Day - 1 Week": 3,
+                    "Rental 1 Week Onwards": 25
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.13544246115396,
+                        -26.69069019165025,
+                        0.022463370641081018
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Tools",
+                    "Description": "Screwdriver Set",
+                    "Rental 1-3 Day": 19,
+                    "Rental 3 Day - 1 Week": 27,
+                    "Rental 1 Week Onwards": 19
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.93505058917998,
+                        -26.734618860233567,
+                        0.012710644633629998
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Tools",
+                    "Description": "Circular Saw",
+                    "Rental 1-3 Day": 23,
+                    "Rental 3 Day - 1 Week": 12,
+                    "Rental 1 Week Onwards": 10
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.90973971789367,
+                        -26.60985611007079,
+                        0.055800860779951826
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Tools",
+                    "Description": "Sander",
+                    "Rental 1-3 Day": 22,
+                    "Rental 3 Day - 1 Week": 8,
+                    "Rental 1 Week Onwards": 6
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.97853287566585,
+                        -26.698490072910754,
+                        0.09886520621244049
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Tools",
+                    "Description": "Wrench Set",
+                    "Rental 1-3 Day": 7,
+                    "Rental 3 Day - 1 Week": 31,
+                    "Rental 1 Week Onwards": 4
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.06165784212118,
+                        -26.778601683582554,
+                        0.020905206846122307
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Tools",
+                    "Description": "Pliers",
+                    "Rental 1-3 Day": 37,
+                    "Rental 3 Day - 1 Week": 3,
+                    "Rental 1 Week Onwards": 20
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        152.99252939241003,
+                        -26.78967564212439,
+                        0.03517184231442433
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Tools",
+                    "Description": "Toolbox",
+                    "Rental 1-3 Day": 8,
+                    "Rental 3 Day - 1 Week": 22,
+                    "Rental 1 Week Onwards": 21
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.03842540868158,
+                        -26.623252276099674,
+                        0.07461277135319176
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Tools",
+                    "Description": "Measuring Tape",
+                    "Rental 1-3 Day": 5,
+                    "Rental 3 Day - 1 Week": 36,
+                    "Rental 1 Week Onwards": 5
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.05556273169822,
+                        -26.711086960953423,
+                        0.014571403550524232
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Tools",
+                    "Description": "Level",
+                    "Rental 1-3 Day": 28,
+                    "Rental 3 Day - 1 Week": 38,
+                    "Rental 1 Week Onwards": 28
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.0585941668657,
+                        -26.693347508122883,
+                        0.04818982840385218
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Category": "Tools",
+                    "Description": "Chainsaw",
+                    "Rental 1-3 Day": 44,
+                    "Rental 3 Day - 1 Week": 25,
+                    "Rental 1 Week Onwards": 12
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.03081021465803,
+                        -26.55912691741204,
+                        0.022533995794653885
+                    ]
+                }
+            }
+        ]
+    }
+
+
+
